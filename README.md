@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htnk128&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=htnk128&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=htnk128&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=htnk128&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=htnk128&theme=gruvbox&utcOffset=9)
+
 <p align="left">
   <a href="https://github.com/htnk128">
     <img height="20" src="https://komarev.com/ghpvc/?username=htnk128" />
@@ -25,4 +33,7 @@ Here are some ideas to get you started:
     <img height="20" src="https://badgen.org/img/zenn/htnk128/articles?style=plastic" />
   </a>
 </p>
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=htnk128&theme=gruvbox)
 
