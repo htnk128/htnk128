@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <a href="https://github.com/htnk128">
+    <img height="20" src="https://komarev.com/ghpvc/?username=htnk128" />
+  </a>
+  <a href="https://github.com/htnk128">
+    <img height="20" src="https://img.shields.io/github/followers/htnk128?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://zenn.dev/htnk128">
+    <img height="20" src="https://badgen.org/img/zenn/htnk128/articles?style=plastic" />
+  </a>
+</p>
+
