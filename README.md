@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **htnk128/htnk128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Profile
+- 言語
+  - Java系全般
+  - JavaScript
+  - Python
+  - Go
+- クラウド
+  - AWS
+    - 一般的に使うサービスはだいたい
+  - GCP
+    - GKEクラスタをちょっとだけ
+- IaC
+  - Terraform
+  - kustomize
+  - CDK
+  - Serverless Framework
+- CI/CD
+  - Jenkins
+  - CircleCI
+  - GitHub Actions
+  - PipeCD
+- コンテナ
+  - Docker
+  - Kubernetes
+- 好きなところ
+  - テスト駆動開発
+  - ドメイン駆動設計
 
 ## Stats
 ![](https://raw.githubusercontent.com/htnk128/htnk128/output/github-contribution-grid-snake.svg)
